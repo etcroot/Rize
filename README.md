@@ -1,0 +1,2 @@
+# Rize
+Rize | Multifunctional Bot
