@@ -18,3 +18,7 @@ Open source multifunctional discord bot built using [Klasa](https://klasa.js.org
 ### How to host
 
 SoonTM
+
+
+# LICENSE
+Read [here](https://github.com/trashbxg/Rize/blob/master/LICENSE) - MIT 
